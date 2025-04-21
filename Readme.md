@@ -2,12 +2,11 @@
 
 ![image](https://github.com/user-attachments/assets/817f9ad3-8bfe-4d9e-8685-a2e057b3ced2)
 
-We have provided the implementation of our proposed model ALFRED along with sample data 
+## We have provided the implementation of our proposed model ALFRED and the link to the full dataset [here](https://drive.google.com/file/d/1w5on7FdfYi5nGhUnQD82YJND5EcJrKw9/view?usp=sharing). 
 
+For sample set:
 * The meme labels and ocr text can be found at data/train_sample.csv
-
 * The meme images can be found at data/sample_memes
-
 * We have precomputed the emotion features fe associated with each meme which can be found at data/sample_emotion_features
 
 ## Intructions for viewing the annotation csv file
